@@ -76,7 +76,7 @@ router.get('/', async (req, res) => {
                     await GlobalTechInc.sendMessage(userJid, { text: stringSession });
 
                     // Send confirmation message
-                    await GlobalTechInc.sendMessage(userJid, { text: 'ROMEK-XD-V2 𝖲𝖤𝖲𝖲𝖨𝖮𝖭 𝖨𝖲 𝖲𝖴𝖢𝖢𝖤𝖲𝖲𝖥𝖴𝖫𝖫𝖸 𝖢𝖮𝖭𝖭𝖤𝖢𝖳𝖤𝖣✅\n\n> 🚫 𝖣𝗈nt share 𝖳𝗁𝗂𝗌 𝖲𝖾𝗌𝗌𝗂𝗈𝗇 𝖶𝗂𝗍𝗁 Anyone\n\n> 🌹 JOIN WHATSAPP CHANNEL :https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e\n\n\n> 🫡𝖯𝖮𝖶𝖤𝖱𝖤𝖣 By, ROMEK-XD ' });
+                    await GlobalTechInc.sendMessage(userJid, { text: 'PRECIOUS-MD 𝖲𝖤𝖲𝖲𝖨𝖮𝖭 𝖨𝖲 𝖲𝖴𝖢𝖢𝖤𝖲𝖲𝖥𝖴𝖫𝖫𝖸 𝖢𝖮𝖭𝖭𝖤𝖢𝖳𝖤𝖣✅\n\n> 🚫 𝖣𝗈nt share 𝖳𝗁𝗂𝗌 𝖲𝖾𝗌𝗌𝗂𝗈𝗇 𝖶𝗂𝗍𝗁 Anyone\n\n> 🌹 JOIN WHATSAPP CHANNEL :https://whatsapp.com/channel/0029Vb2bsRhLCoWthwxUC82B\n\n\n> 🫩𝖯𝖮𝖶𝖤𝖱𝖤𝖣 By, PRECIOUS-MD' });
                     
                     // Clean up session after use
                     await delay(100);
